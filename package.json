@@ -1,0 +1,19 @@
+{
+  "name": "2phasetransaction",
+  "version": "1.0.0",
+  "description": "Two phase transaction mechanism",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ivigasin/2phaseTransaction.git"
+  },
+  "author": "Igor Vigasin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivigasin/2phaseTransaction/issues"
+  },
+  "homepage": "https://github.com/ivigasin/2phaseTransaction#readme"
+}
